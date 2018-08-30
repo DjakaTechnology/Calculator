@@ -30,6 +30,7 @@
             android:paddingBottom="32dp"
             android:paddingEnd="32dp"
             android:text="300"
+            android:autoSizeTextType="uniform"
             android:textAlignment="textEnd"
             android:textColor="@android:color/white"
             android:textSize="64sp" />
